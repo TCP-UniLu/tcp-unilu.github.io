@@ -1,0 +1,68 @@
+
+- name: Prof. Hans-Joachim 
+  surname: Freund   
+  institute: Fritz-Haber-Institut der MPG, Germany
+- name: Prof. Stefan 
+  surname: Tautz   
+  institute: PGI-3, Jülich Forschungszentrum, Germany
+- name: Prof. Leo 
+  surname: Gross   
+  institute: IBM Zürich, Switzerland
+- name: Prof. Richard 
+  surname: Berndt   
+  institute: Universität Kiel, Germany
+- name: Prof. Karsten 
+  surname: Reuter  
+  institute: Technische Universität Münich, Germany
+- name: Prof. Klaus-Robert 
+  surname: Müller   
+  institute: Technische Universität Berlin, Germany
+- name: Prof. Karin 
+  surname: Jacobs  
+  institute: Universität des Saarlandes, Germany
+- name: Prof. Leeor 
+  surname: Kronik   
+  institute: Weizmann Institute, Israel
+- name: Prof. Dario 
+  surname: Alfe   
+  institute: University College London, UK
+- name: Prof. Angelos 
+  surname: Michaelides   
+  institute: University College London, UK
+- name: Prof. Fred 
+  surname: Manby   
+  institute: University of Bristol, UK
+- name: Prof. Kwang Soo 
+  surname: Kim   
+  institute: UNIST, Korea
+- name: Prof. Anatole 
+  surname: von Lilienfeld   
+  institute: University of Basel, Switzerland
+- name: Prof. Noa 
+  surname: Marom   
+  institute: Carnegie Mellon University, USA
+- name: Prof. Roberto 
+  surname: Car   
+  institute: Princeton University, USA
+- name: Prof. Alan 
+  surname: Aspuru-Guzik   
+  institute: University of Toronto, Canada
+- name: Prof. Sameer 
+  surname: Varma   
+  institute: University of Southern Florida, USA
+- name: Prof. Ignacio 
+  surname: Franco   
+  institute: University of Rochester, USA
+- name: Prof. Robert A. 
+  surname: DiStasio Jr.   
+  institute: Cornell University, USA
+- name: Dr. Matteo 
+  surname: Gori, 
+  institute: Aix-Marseille University, France
+- name: Prof. Marco 
+  surname: Pettini, 
+  institute: Aix-Marseille University, France
+- name: Dr. Philip 
+  surname: Kurian, 
+  institute: Howard University, USA
+
